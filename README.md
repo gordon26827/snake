@@ -1,2 +1,5 @@
 # snake
-Basic snake game. Press space to restart
+
+Borders are deadly
+
+Press space to restart when you die
